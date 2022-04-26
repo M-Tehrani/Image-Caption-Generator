@@ -1,4 +1,5 @@
 # Image-Caption-Generator
+This project is an initial experiment for our main project in Medical Image Report Genarator.
 Captions, Dataset Splits, and Human Annotations :
 
 
